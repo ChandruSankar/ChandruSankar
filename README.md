@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/Readme_Profile.jpg)
 
-# Hi there <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/hackerearth.svg" width="128" height="128"> This is Chandru Sankar 
+# Hi there <img src="https://raw.githubusercontent.com/ChandruSankar/ChandruSankar/master/assets/Hi.gif"> This is Chandru Sankar 
 ##### I am enthusiastic developer
 
 <a href="https://www.facebook.com/chanesc99/" target="_blank" style="text-decoration: none">
